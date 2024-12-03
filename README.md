@@ -12,7 +12,7 @@ Feel free to explore my repositories where I showcase projects ranging from dyna
 
 ## 📂 Feel free to check out my repositories:
 - [Chatty](https://github.com/udayan-singh/Chatty) - A real-time chat application built with MERN Stack and socket.io.
-- [Forever Young](https://github.com/udayan-singh/Forever-Young) - A full-stack web application integrating machine learning and payment systems.
+- [Forever Young]([https://github.com/udayan-singh/Forever-Young](https://github.com/Udayan-Singh/Forever-Young-Fullstack)) - A full-stack web application integrating machine learning and payment systems.
 
 I love learning new technologies and collaborating with like-minded people. If you have any questions or want to work on something together, don't hesitate to reach out!
 
